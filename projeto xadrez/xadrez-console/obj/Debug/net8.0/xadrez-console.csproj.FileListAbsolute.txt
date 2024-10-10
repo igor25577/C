@@ -1,0 +1,14 @@
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfo.cs
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.exe
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.deps.json
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.runtimeconfig.json
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.dll
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.pdb
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.dll
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\refint\xadrez-console.dll
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.pdb
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
+C:\Users\kirit\OneDrive\Documentos\Estudos\C#\projeto xadrez\xadrez-console\obj\Debug\net8.0\ref\xadrez-console.dll
